@@ -1,0 +1,6 @@
+[submodule "LibExerciseRunner"]
+	path = LibExerciseRunner
+	url = https://github.com/kaesaecracker/cs-libexerciserunner.git
+[submodule "LibConsole"]
+	path = LibConsole
+	url = https://github.com/kaesaecracker/cs-libconsole.git
